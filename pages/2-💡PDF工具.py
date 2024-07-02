@@ -17,7 +17,7 @@ if st.button('合并文件'):
         # st.write(desktop_path)
         # output_path = desktop_path + '\合并结果.pdf'
         # st.write(output_path)
-        st.write('C:\Users\Aaron Ko\Desktop\合并结果.pdf')
+        st.write("C:\Users\Aaron Ko\Desktop\合并结果.pdf")
         # pdf_merger.write(output_path)
 # if uploaded_folders is not None:
     # 如果用户上传了文件夹，展示上传的文件夹的名称
