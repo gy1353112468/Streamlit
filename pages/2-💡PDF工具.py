@@ -52,6 +52,7 @@ if st.button('合并文件'):
         )
         # 删除临时文件
         os.remove("merged.pdf")
+        os.remove("result.pdf")
     else:
         st.write("请上传1个及以上的文件")
 
